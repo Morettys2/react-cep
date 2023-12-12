@@ -8,9 +8,7 @@ export default function Home() {
         <h1 className='text-blue-800 '>World</h1>
       </div>
 
-      <div>
-        <h1>Meguiinha</h1>
-      </div>
+      
     </div>
   )
 }
